@@ -1,2 +1,4 @@
 # my_spotify
-playing around with my spotify user data
+playing around with my Spotify user data.
+
+data collected through [spotipy](https://spotipy.readthedocs.io/)
