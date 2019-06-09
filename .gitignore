@@ -4,3 +4,5 @@ my_top_artists_short_term_100.csv
 my_top_tracks_short_term_50.csv
 
 my_top_artists_short_term_50.csv
+
+*.csv
